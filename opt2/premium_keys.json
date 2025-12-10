@@ -1,0 +1,112 @@
+{
+    "keys": {
+        "paublte-gen1-BHL45BVFZU17GPTX": {
+            "expires_at": "2025-12-14T03:59:30.606127",
+            "chat_id": null,
+            "level": "Sin Nivel",
+            "allowed_emails": [],
+            "allowed_services": [
+                "ALL"
+            ],
+            "services": [
+                "TODO"
+            ]
+        },
+        "paublte-gen2-NHYB1TFGPXKH7RV7": {
+            "expires_at": "2025-12-26T23:21:18.994044",
+            "chat_id": null,
+            "level": "Sin Nivel",
+            "allowed_emails": [],
+            "allowed_services": [
+                "ALL"
+            ],
+            "services": [
+                "TODO"
+            ]
+        },
+        "paublte-gen3-GBHILG44V6G8G8I0": {
+            "expires_at": "2025-12-27T01:25:24.338370",
+            "chat_id": null,
+            "level": "Sin Nivel",
+            "allowed_services": [
+                "ALL"
+            ],
+            "services": [
+                "TODO"
+            ]
+        },
+        "paublte-genX-diamante__1-E0EB46C8": {
+            "expires_at": "2025-12-27T02:44:28.681472",
+            "level": "diamante  1",
+            "chat_id": null,
+            "allowed_services": [
+                "ALL"
+            ],
+            "services": [
+                "TODO"
+            ]
+        },
+        "paublte-genX-pro_1-725BCE00": {
+            "expires_at": "2025-12-27T04:37:20.494622",
+            "level": "pro 1",
+            "chat_id": null,
+            "allowed_services": [
+                "ALL"
+            ],
+            "services": [
+                "TODO"
+            ]
+        },
+        "paublte-genX-ALL-F5BDDA": {
+            "expires_at": "2026-01-09T02:48:52.271404",
+            "level": "Todo",
+            "chat_id": null,
+            "allowed_services": [
+                "ALL"
+            ],
+            "services": [
+                "TODO"
+            ]
+        },
+        "paublte-genX-netflix-39CE6367": {
+            "expires_at": "2025-12-11T03:00:43.268146",
+            "level": "netflix",
+            "services": [
+                "netflix"
+            ],
+            "chat_id": 1532022891
+        },
+        "paublte-genX-1-AA550F81": {
+            "expires_at": "2025-12-11T03:37:39.214746",
+            "level": "1",
+            "services": [
+                "netflix"
+            ],
+            "chat_id": 6754567027
+        }
+    },
+    "user_active_keys": {
+        "1532022891": "paublte-genX-netflix-39CE6367",
+        "6754567027": "paublte-genX-1-AA550F81"
+    },
+    "subscriptions": [
+        7590578210,
+        6754567027,
+        1532022891
+    ],
+    "user_contacts": {
+        "7590578210": {
+            "name": "PAUBLITE",
+            "username": "@PAUBLITE_GT"
+        },
+        "1532022891": {
+            "name": "Usman",
+            "username": "@Usmanggn"
+        },
+        "6754567027": {
+            "name": "Damian",
+            "username": "@dami123fg"
+        }
+    },
+    "banned_users": []
+}
